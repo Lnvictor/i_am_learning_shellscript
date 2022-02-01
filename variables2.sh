@@ -1,0 +1,2 @@
+echo $NAME
+NAME="LUIZINHO"
